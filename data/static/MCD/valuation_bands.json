@@ -1,0 +1,14 @@
+{
+  "ticker": "MCD",
+  "updated_at": "2026-04-21",
+  "current_price": 306.94,
+  "current_yield": 0.0237,
+  "annual_dps": 7.26,
+  "current_pe": 11.76,
+  "ttm_eps": 26.1109,
+  "pe_min_5y": 8.15,
+  "pe_max_5y": 11.86,
+  "yield_min_5y": 0.0234,
+  "yield_max_5y": 0.0341,
+  "roic_10y_avg": null
+}

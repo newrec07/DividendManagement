@@ -1,0 +1,13 @@
+# API server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Data collection
+requests
+yfinance
+pandas
+ta
+
+# Env
+python-dotenv

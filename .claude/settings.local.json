@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m venv .venv)",
+      "Bash(.venv/Scripts/pip install *)",
+      "Bash(\"d:/[737] AI 프로젝트/[02] DividendManagement/.venv/Scripts/pip.exe\" list)",
+      "Bash(\"d:/[737] AI 프로젝트/[02] DividendManagement/.venv/Scripts/pip.exe\" install tqdm)",
+      "Bash('d:/[737] AI 프로젝트/[02] DividendManagement/.venv/Scripts/python.exe' -c ' *)",
+      "Bash(npm run *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173)",
+      "Bash(.venv/Scripts/python.exe -c ' *)"
+    ]
+  }
+}

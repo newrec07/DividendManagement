@@ -1,0 +1,14 @@
+{
+  "ticker": "ABBV",
+  "updated_at": "2026-04-21",
+  "current_price": 203.71,
+  "current_yield": 0.0331,
+  "annual_dps": 6.74,
+  "current_pe": 85.19,
+  "ttm_eps": 2.3911,
+  "pe_min_5y": 40.01,
+  "pe_max_5y": 93.25,
+  "yield_min_5y": 0.0302,
+  "yield_max_5y": 0.0704,
+  "roic_10y_avg": null
+}

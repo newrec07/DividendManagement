@@ -1,0 +1,104 @@
+{
+  "tickers": [
+    {
+      "ticker": "HD",
+      "name": "Home Depot",
+      "sector": "Consumer Discretionary",
+      "added_date": "2025-01-01",
+      "currency": "USD",
+      "dividend_frequency": "quarterly",
+      "sector_de_ratio": 999.0,
+      "wacc": 0.09
+    },
+    {
+      "ticker": "PLD",
+      "name": "Prologis",
+      "sector": "Real Estate",
+      "added_date": "2025-01-01",
+      "currency": "USD",
+      "dividend_frequency": "quarterly",
+      "sector_de_ratio": 0.8,
+      "wacc": 0.07
+    },
+    {
+      "ticker": "WSO",
+      "name": "Watsco",
+      "sector": "Industrials",
+      "added_date": "2025-01-01",
+      "currency": "USD",
+      "dividend_frequency": "quarterly",
+      "sector_de_ratio": 0.5,
+      "wacc": 0.09
+    },
+    {
+      "ticker": "MCD",
+      "name": "McDonald's",
+      "sector": "Consumer Discretionary",
+      "added_date": "2025-01-01",
+      "currency": "USD",
+      "dividend_frequency": "quarterly",
+      "sector_de_ratio": 999.0,
+      "wacc": 0.08
+    },
+    {
+      "ticker": "CVX",
+      "name": "Chevron",
+      "sector": "Energy",
+      "added_date": "2025-01-01",
+      "currency": "USD",
+      "dividend_frequency": "quarterly",
+      "sector_de_ratio": 0.3,
+      "wacc": 0.10
+    },
+    {
+      "ticker": "ADP",
+      "name": "Automatic Data Processing",
+      "sector": "Technology",
+      "added_date": "2025-01-01",
+      "currency": "USD",
+      "dividend_frequency": "quarterly",
+      "sector_de_ratio": 0.5,
+      "wacc": 0.09
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc.",
+      "sector": "Healthcare",
+      "added_date": "2025-01-01",
+      "currency": "USD",
+      "dividend_frequency": "quarterly",
+      "sector_de_ratio": 1.8,
+      "wacc": 0.08
+    },
+    {
+      "ticker": "NEE",
+      "name": "NextEra Energy",
+      "sector": "Utilities",
+      "added_date": "2025-01-01",
+      "currency": "USD",
+      "dividend_frequency": "quarterly",
+      "sector_de_ratio": 1.2,
+      "wacc": 0.07
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group",
+      "sector": "Healthcare",
+      "added_date": "2025-01-01",
+      "currency": "USD",
+      "dividend_frequency": "quarterly",
+      "sector_de_ratio": 0.6,
+      "wacc": 0.09
+    },
+    {
+      "ticker": "WM",
+      "name": "Waste Management",
+      "sector": "Industrials",
+      "added_date": "2025-01-01",
+      "currency": "USD",
+      "dividend_frequency": "quarterly",
+      "sector_de_ratio": 1.5,
+      "wacc": 0.08
+    }
+  ]
+}

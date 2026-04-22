@@ -1,0 +1,14 @@
+{
+  "ticker": "UNH",
+  "updated_at": "2026-04-21",
+  "current_price": 323.48,
+  "current_yield": 0.0273,
+  "annual_dps": 8.84,
+  "current_pe": 24.3,
+  "ttm_eps": 13.3092,
+  "pe_min_5y": 21.62,
+  "pe_max_5y": 41.75,
+  "yield_min_5y": 0.0159,
+  "yield_max_5y": 0.0307,
+  "roic_10y_avg": null
+}

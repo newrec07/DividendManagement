@@ -1,0 +1,11 @@
+[build]
+builder = "NIXPACKS"
+
+[deploy]
+startCommand = "python startup.py"
+healthcheckPath = "/api/health"
+healthcheckTimeout = 60
+
+[[cron]]
+schedule = "0 17 * * 5"
+command = "python pipeline/weekly_refresh.py"

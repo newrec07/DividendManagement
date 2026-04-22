@@ -1,0 +1,14 @@
+{
+  "ticker": "WM",
+  "updated_at": "2026-04-21",
+  "current_price": 224.18,
+  "current_yield": 0.0153,
+  "annual_dps": 3.42,
+  "current_pe": 14.77,
+  "ttm_eps": 15.1762,
+  "pe_min_5y": 8.92,
+  "pe_max_5y": 15.12,
+  "yield_min_5y": 0.0149,
+  "yield_max_5y": 0.0253,
+  "roic_10y_avg": null
+}

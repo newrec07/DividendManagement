@@ -1,0 +1,946 @@
+{
+  "ticker": "MCD",
+  "cik": "0000063908",
+  "updated_at": "2026-04-21",
+  "income_quarterly": [
+    {
+      "date": "2008-06-30",
+      "revenue": 11690100000,
+      "net_income": 2136600000,
+      "eps_diluted": null,
+      "operating_income": 3117000000,
+      "interest_expense": 274800000
+    },
+    {
+      "date": "2008-09-30",
+      "revenue": 17957400000,
+      "net_income": 3327900000,
+      "eps_diluted": null,
+      "operating_income": 4940700000,
+      "interest_expense": 406400000
+    },
+    {
+      "date": "2009-03-31",
+      "revenue": 5077400000,
+      "net_income": 979500000,
+      "eps_diluted": null,
+      "operating_income": 1400400000,
+      "interest_expense": 120900000
+    },
+    {
+      "date": "2009-06-30",
+      "revenue": 10724600000,
+      "net_income": 2073200000,
+      "eps_diluted": null,
+      "operating_income": 3081900000,
+      "interest_expense": 240200000
+    },
+    {
+      "date": "2009-09-30",
+      "revenue": 16771300000,
+      "net_income": 3334200000,
+      "eps_diluted": null,
+      "operating_income": 5014700000,
+      "interest_expense": 358000000
+    },
+    {
+      "date": "2010-03-31",
+      "revenue": 5610100000,
+      "net_income": 1089800000,
+      "eps_diluted": null,
+      "operating_income": 1674100000,
+      "interest_expense": 111000000
+    },
+    {
+      "date": "2010-06-30",
+      "revenue": 11555600000,
+      "net_income": 2315600000,
+      "eps_diluted": null,
+      "operating_income": 3519400000,
+      "interest_expense": 219100000
+    },
+    {
+      "date": "2010-09-30",
+      "revenue": 17860500000,
+      "net_income": 3704000000,
+      "eps_diluted": null,
+      "operating_income": 5615900000,
+      "interest_expense": 333900000
+    },
+    {
+      "date": "2011-03-31",
+      "revenue": 6111600000,
+      "net_income": 1209000000,
+      "eps_diluted": null,
+      "operating_income": 1825900000,
+      "interest_expense": 120100000
+    },
+    {
+      "date": "2011-06-30",
+      "revenue": 13017000000,
+      "net_income": 2619200000,
+      "eps_diluted": null,
+      "operating_income": 4015000000,
+      "interest_expense": 241900000
+    },
+    {
+      "date": "2011-09-30",
+      "revenue": 20183300000,
+      "net_income": 4126500000,
+      "eps_diluted": null,
+      "operating_income": 6409700000,
+      "interest_expense": 365900000
+    },
+    {
+      "date": "2012-03-31",
+      "revenue": 6546600000,
+      "net_income": 1266700000,
+      "eps_diluted": null,
+      "operating_income": 1964600000,
+      "interest_expense": 128900000
+    },
+    {
+      "date": "2012-06-30",
+      "revenue": 13462500000,
+      "net_income": 2613700000,
+      "eps_diluted": null,
+      "operating_income": 4119600000,
+      "interest_expense": 258900000
+    },
+    {
+      "date": "2012-09-30",
+      "revenue": 20614900000,
+      "net_income": 4068700000,
+      "eps_diluted": null,
+      "operating_income": 6406800000,
+      "interest_expense": 387000000
+    },
+    {
+      "date": "2013-03-31",
+      "revenue": 6605300000,
+      "net_income": 1270200000,
+      "eps_diluted": null,
+      "operating_income": 1949500000,
+      "interest_expense": 128100000
+    },
+    {
+      "date": "2013-06-30",
+      "revenue": 13689100000,
+      "net_income": 2666700000,
+      "eps_diluted": null,
+      "operating_income": 4147200000,
+      "interest_expense": 257900000
+    },
+    {
+      "date": "2013-09-30",
+      "revenue": 21012500000,
+      "net_income": 4188900000,
+      "eps_diluted": null,
+      "operating_income": 6563900000,
+      "interest_expense": 388400000
+    },
+    {
+      "date": "2014-03-31",
+      "revenue": 6700300000,
+      "net_income": 1204800000,
+      "eps_diluted": null,
+      "operating_income": 1936000000,
+      "interest_expense": 135500000
+    },
+    {
+      "date": "2014-06-30",
+      "revenue": 13882000000,
+      "net_income": 2591900000,
+      "eps_diluted": null,
+      "operating_income": 4125000000,
+      "interest_expense": 273400000
+    },
+    {
+      "date": "2014-09-30",
+      "revenue": 20869100000,
+      "net_income": 3660300000,
+      "eps_diluted": null,
+      "operating_income": 6197500000,
+      "interest_expense": 422700000
+    },
+    {
+      "date": "2015-03-31",
+      "revenue": 5958900000,
+      "net_income": 811500000,
+      "eps_diluted": null,
+      "operating_income": 1385500000,
+      "interest_expense": 147300000
+    },
+    {
+      "date": "2015-06-30",
+      "revenue": 12456600000,
+      "net_income": 2013900000,
+      "eps_diluted": null,
+      "operating_income": 3234800000,
+      "interest_expense": 296500000
+    },
+    {
+      "date": "2015-09-30",
+      "revenue": 19071700000,
+      "net_income": 3323100000,
+      "eps_diluted": null,
+      "operating_income": 5265100000,
+      "interest_expense": 457400000
+    },
+    {
+      "date": "2016-03-31",
+      "revenue": 5903900000,
+      "net_income": 1124800000,
+      "eps_diluted": null,
+      "operating_income": 1780300000,
+      "interest_expense": 218300000
+    },
+    {
+      "date": "2016-06-30",
+      "revenue": 12168900000,
+      "net_income": 2217700000,
+      "eps_diluted": null,
+      "operating_income": 3638200000,
+      "interest_expense": 442200000
+    },
+    {
+      "date": "2016-09-30",
+      "revenue": 18593000000,
+      "net_income": 3493100000,
+      "eps_diluted": null,
+      "operating_income": 5775500000,
+      "interest_expense": 663600000
+    },
+    {
+      "date": "2017-03-31",
+      "revenue": 5675900000,
+      "net_income": 1214800000,
+      "eps_diluted": null,
+      "operating_income": 2034000000,
+      "interest_expense": 218600000
+    },
+    {
+      "date": "2017-06-30",
+      "revenue": 11725600000,
+      "net_income": 2609900000,
+      "eps_diluted": null,
+      "operating_income": 4329100000,
+      "interest_expense": 449500000
+    },
+    {
+      "date": "2017-09-30",
+      "revenue": 17480200000,
+      "net_income": 4493600000,
+      "eps_diluted": null,
+      "operating_income": 7408500000,
+      "interest_expense": 686200000
+    },
+    {
+      "date": "2018-03-31",
+      "revenue": 5138900000,
+      "net_income": 1375400000,
+      "eps_diluted": null,
+      "operating_income": 2143100000,
+      "interest_expense": 236800000
+    },
+    {
+      "date": "2018-06-30",
+      "revenue": 10492800000,
+      "net_income": 2871700000,
+      "eps_diluted": null,
+      "operating_income": 4405400000,
+      "interest_expense": 477000000
+    },
+    {
+      "date": "2018-09-30",
+      "revenue": 15862200000,
+      "net_income": 4509000000,
+      "eps_diluted": null,
+      "operating_income": 6823100000,
+      "interest_expense": 727100000
+    },
+    {
+      "date": "2019-03-31",
+      "revenue": 5024100000,
+      "net_income": 1328400000,
+      "eps_diluted": null,
+      "operating_income": 2094000000,
+      "interest_expense": 274100000
+    },
+    {
+      "date": "2019-06-30",
+      "revenue": 10433900000,
+      "net_income": 2845300000,
+      "eps_diluted": null,
+      "operating_income": 4367900000,
+      "interest_expense": 558300000
+    },
+    {
+      "date": "2019-09-30",
+      "revenue": 15936200000,
+      "net_income": 4453200000,
+      "eps_diluted": null,
+      "operating_income": 6777200000,
+      "interest_expense": 838900000
+    },
+    {
+      "date": "2020-03-31",
+      "revenue": 4714400000,
+      "net_income": 1106900000,
+      "eps_diluted": null,
+      "operating_income": 1693600000,
+      "interest_expense": 280000000
+    },
+    {
+      "date": "2020-06-30",
+      "revenue": 8475900000,
+      "net_income": 1590700000,
+      "eps_diluted": null,
+      "operating_income": 2654700000,
+      "interest_expense": 599100000
+    },
+    {
+      "date": "2020-09-30",
+      "revenue": 13894000000,
+      "net_income": 3353300000,
+      "eps_diluted": null,
+      "operating_income": 5181100000,
+      "interest_expense": 909200000
+    },
+    {
+      "date": "2021-03-31",
+      "revenue": 5124600000,
+      "net_income": 1537200000,
+      "eps_diluted": null,
+      "operating_income": 2281300000,
+      "interest_expense": 300000000
+    },
+    {
+      "date": "2021-06-30",
+      "revenue": 11012500000,
+      "net_income": 3756500000,
+      "eps_diluted": null,
+      "operating_income": 4972400000,
+      "interest_expense": 596500000
+    },
+    {
+      "date": "2021-09-30",
+      "revenue": 17213800000,
+      "net_income": 5906400000,
+      "eps_diluted": null,
+      "operating_income": 7958900000,
+      "interest_expense": 890200000
+    },
+    {
+      "date": "2022-03-31",
+      "revenue": 5665600000,
+      "net_income": 1104400000,
+      "eps_diluted": null,
+      "operating_income": 2312600000,
+      "interest_expense": 287300000
+    },
+    {
+      "date": "2022-06-30",
+      "revenue": 11384000000,
+      "net_income": 2292400000,
+      "eps_diluted": null,
+      "operating_income": 4024400000,
+      "interest_expense": 577900000
+    },
+    {
+      "date": "2022-09-30",
+      "revenue": 17256100000,
+      "net_income": 4274000000,
+      "eps_diluted": null,
+      "operating_income": 6788300000,
+      "interest_expense": 884100000
+    },
+    {
+      "date": "2023-03-31",
+      "revenue": 5898000000,
+      "net_income": 1802000000,
+      "eps_diluted": null,
+      "operating_income": 2532000000,
+      "interest_expense": 330000000
+    },
+    {
+      "date": "2023-06-30",
+      "revenue": 12395000000,
+      "net_income": 4113000000,
+      "eps_diluted": null,
+      "operating_income": 5637000000,
+      "interest_expense": 660000000
+    },
+    {
+      "date": "2023-09-30",
+      "revenue": 19088000000,
+      "net_income": 6430000000,
+      "eps_diluted": null,
+      "operating_income": 8845000000,
+      "interest_expense": 1001000000
+    },
+    {
+      "date": "2024-03-31",
+      "revenue": 6169000000,
+      "net_income": 1929000000,
+      "eps_diluted": null,
+      "operating_income": 2736000000,
+      "interest_expense": 372000000
+    },
+    {
+      "date": "2024-06-30",
+      "revenue": 12659000000,
+      "net_income": 3951000000,
+      "eps_diluted": null,
+      "operating_income": 5655000000,
+      "interest_expense": 746000000
+    },
+    {
+      "date": "2024-09-30",
+      "revenue": 19532000000,
+      "net_income": 6207000000,
+      "eps_diluted": null,
+      "operating_income": 8844000000,
+      "interest_expense": 1126000000
+    },
+    {
+      "date": "2025-03-31",
+      "revenue": 5956000000,
+      "net_income": 1868000000,
+      "eps_diluted": null,
+      "operating_income": 2648000000,
+      "interest_expense": 376000000
+    },
+    {
+      "date": "2025-06-30",
+      "revenue": 12799000000,
+      "net_income": 4121000000,
+      "eps_diluted": null,
+      "operating_income": 5880000000,
+      "interest_expense": 766000000
+    },
+    {
+      "date": "2025-09-30",
+      "revenue": 19876000000,
+      "net_income": 6399000000,
+      "eps_diluted": null,
+      "operating_income": 9237000000,
+      "interest_expense": 1172000000
+    }
+  ],
+  "cashflow_quarterly": [
+    {
+      "date": "2008-06-30",
+      "operating_cashflow": 2740500000,
+      "capex": 887100000,
+      "fcf": 1853400000,
+      "dividends_paid": 848000000
+    },
+    {
+      "date": "2008-09-30",
+      "operating_cashflow": 4446900000,
+      "capex": 1422000000,
+      "fcf": 3024900000,
+      "dividends_paid": 1265700000
+    },
+    {
+      "date": "2009-03-31",
+      "operating_cashflow": 1130700000,
+      "capex": 413700000,
+      "fcf": 717000000,
+      "dividends_paid": 553400000
+    },
+    {
+      "date": "2009-06-30",
+      "operating_cashflow": 2550800000,
+      "capex": 848100000,
+      "fcf": 1702700000,
+      "dividends_paid": 1101200000
+    },
+    {
+      "date": "2009-09-30",
+      "operating_cashflow": 4373000000,
+      "capex": 1318900000,
+      "fcf": 3054100000,
+      "dividends_paid": 1642400000
+    },
+    {
+      "date": "2010-03-31",
+      "operating_cashflow": 1422700000,
+      "capex": 401800000,
+      "fcf": 1020900000,
+      "dividends_paid": 592000000
+    },
+    {
+      "date": "2010-06-30",
+      "operating_cashflow": 2671400000,
+      "capex": 796300000,
+      "fcf": 1875100000,
+      "dividends_paid": 1181100000
+    },
+    {
+      "date": "2010-09-30",
+      "operating_cashflow": 4615800000,
+      "capex": 1319400000,
+      "fcf": 3296400000,
+      "dividends_paid": 1764600000
+    },
+    {
+      "date": "2011-03-31",
+      "operating_cashflow": 1553100000,
+      "capex": 508700000,
+      "fcf": 1044400000,
+      "dividends_paid": 635100000
+    },
+    {
+      "date": "2011-06-30",
+      "operating_cashflow": 3195900000,
+      "capex": 1099100000,
+      "fcf": 2096800000,
+      "dividends_paid": 1267100000
+    },
+    {
+      "date": "2011-09-30",
+      "operating_cashflow": 5365500000,
+      "capex": 1791400000,
+      "fcf": 3574100000,
+      "dividends_paid": 1894300000
+    },
+    {
+      "date": "2012-03-31",
+      "operating_cashflow": 1633500000,
+      "capex": 588400000,
+      "fcf": 1045100000,
+      "dividends_paid": 712300000
+    },
+    {
+      "date": "2012-06-30",
+      "operating_cashflow": 3116600000,
+      "capex": 1300400000,
+      "fcf": 1816200000,
+      "dividends_paid": 1421600000
+    },
+    {
+      "date": "2012-09-30",
+      "operating_cashflow": 5116000000,
+      "capex": 2053600000,
+      "fcf": 3062400000,
+      "dividends_paid": 2125400000
+    },
+    {
+      "date": "2013-03-31",
+      "operating_cashflow": 1686900000,
+      "capex": 634200000,
+      "fcf": 1052700000,
+      "dividends_paid": 772200000
+    },
+    {
+      "date": "2013-06-30",
+      "operating_cashflow": 3196700000,
+      "capex": 1233600000,
+      "fcf": 1963100000,
+      "dividends_paid": 1543300000
+    },
+    {
+      "date": "2013-09-30",
+      "operating_cashflow": 5247200000,
+      "capex": 1920700000,
+      "fcf": 3326500000,
+      "dividends_paid": 2310800000
+    },
+    {
+      "date": "2014-03-31",
+      "operating_cashflow": 1907300000,
+      "capex": 568800000,
+      "fcf": 1338500000,
+      "dividends_paid": 801700000
+    },
+    {
+      "date": "2014-06-30",
+      "operating_cashflow": 3394300000,
+      "capex": 1158400000,
+      "fcf": 2235900000,
+      "dividends_paid": 1602300000
+    },
+    {
+      "date": "2014-09-30",
+      "operating_cashflow": 5227200000,
+      "capex": 1817300000,
+      "fcf": 3409900000,
+      "dividends_paid": 2395300000
+    },
+    {
+      "date": "2015-03-31",
+      "operating_cashflow": 1699500000,
+      "capex": 392600000,
+      "fcf": 1306900000,
+      "dividends_paid": 816300000
+    },
+    {
+      "date": "2015-06-30",
+      "operating_cashflow": 3213000000,
+      "capex": 808500000,
+      "fcf": 2404500000,
+      "dividends_paid": 1627300000
+    },
+    {
+      "date": "2015-09-30",
+      "operating_cashflow": 5160400000,
+      "capex": 1221200000,
+      "fcf": 3939200000,
+      "dividends_paid": 2416400000
+    },
+    {
+      "date": "2016-03-31",
+      "operating_cashflow": 1745200000,
+      "capex": 391800000,
+      "fcf": 1353400000,
+      "dividends_paid": 780800000
+    },
+    {
+      "date": "2016-06-30",
+      "operating_cashflow": 2993600000,
+      "capex": 744300000,
+      "fcf": 2249300000,
+      "dividends_paid": 1540100000
+    },
+    {
+      "date": "2016-09-30",
+      "operating_cashflow": 5244700000,
+      "capex": 1149600000,
+      "fcf": 4095100000,
+      "dividends_paid": 2285200000
+    },
+    {
+      "date": "2017-03-31",
+      "operating_cashflow": 1544000000,
+      "capex": 427700000,
+      "fcf": 1116300000,
+      "dividends_paid": 770600000
+    },
+    {
+      "date": "2017-06-30",
+      "operating_cashflow": 2757400000,
+      "capex": 796400000,
+      "fcf": 1961000000,
+      "dividends_paid": 1532100000
+    },
+    {
+      "date": "2017-09-30",
+      "operating_cashflow": 4441900000,
+      "capex": 1213300000,
+      "fcf": 3228600000,
+      "dividends_paid": 2287400000
+    },
+    {
+      "date": "2018-03-31",
+      "operating_cashflow": 1645200000,
+      "capex": 552800000,
+      "fcf": 1092400000,
+      "dividends_paid": 797500000
+    },
+    {
+      "date": "2018-06-30",
+      "operating_cashflow": 2984000000,
+      "capex": 1164100000,
+      "fcf": 1819900000,
+      "dividends_paid": 1583600000
+    },
+    {
+      "date": "2018-09-30",
+      "operating_cashflow": 5455100000,
+      "capex": 1867900000,
+      "fcf": 3587200000,
+      "dividends_paid": 2363400000
+    },
+    {
+      "date": "2019-03-31",
+      "operating_cashflow": 2020600000,
+      "capex": 515300000,
+      "fcf": 1505300000,
+      "dividends_paid": 886800000
+    },
+    {
+      "date": "2019-06-30",
+      "operating_cashflow": 3946100000,
+      "capex": 1113100000,
+      "fcf": 2833000000,
+      "dividends_paid": 1769800000
+    },
+    {
+      "date": "2019-09-30",
+      "operating_cashflow": 6232800000,
+      "capex": 1661800000,
+      "fcf": 4571000000,
+      "dividends_paid": 2646700000
+    },
+    {
+      "date": "2020-03-31",
+      "operating_cashflow": 1546000000,
+      "capex": 482500000,
+      "fcf": 1063500000,
+      "dividends_paid": 930700000
+    },
+    {
+      "date": "2020-06-30",
+      "operating_cashflow": 1332900000,
+      "capex": 787500000,
+      "fcf": 545400000,
+      "dividends_paid": 1860400000
+    },
+    {
+      "date": "2020-09-30",
+      "operating_cashflow": 4272400000,
+      "capex": 1177700000,
+      "fcf": 3094700000,
+      "dividends_paid": 2791300000
+    },
+    {
+      "date": "2021-03-31",
+      "operating_cashflow": 2124000000,
+      "capex": 368700000,
+      "fcf": 1755300000,
+      "dividends_paid": 962300000
+    },
+    {
+      "date": "2021-06-30",
+      "operating_cashflow": 3857200000,
+      "capex": 851300000,
+      "fcf": 3005900000,
+      "dividends_paid": 1925600000
+    },
+    {
+      "date": "2021-09-30",
+      "operating_cashflow": 6475000000,
+      "capex": 1352800000,
+      "fcf": 5122200000,
+      "dividends_paid": 2889500000
+    },
+    {
+      "date": "2022-03-31",
+      "operating_cashflow": 2133300000,
+      "capex": 401200000,
+      "fcf": 1732100000,
+      "dividends_paid": 1025100000
+    },
+    {
+      "date": "2022-06-30",
+      "operating_cashflow": 2751400000,
+      "capex": 839100000,
+      "fcf": 1912300000,
+      "dividends_paid": 2042000000
+    },
+    {
+      "date": "2022-09-30",
+      "operating_cashflow": 5185300000,
+      "capex": 1370300000,
+      "fcf": 3815000000,
+      "dividends_paid": 3056700000
+    },
+    {
+      "date": "2023-03-31",
+      "operating_cashflow": 2420000000,
+      "capex": 503000000,
+      "fcf": 1917000000,
+      "dividends_paid": 1111000000
+    },
+    {
+      "date": "2023-06-30",
+      "operating_cashflow": 4094000000,
+      "capex": 1030000000,
+      "fcf": 3064000000,
+      "dividends_paid": 2220000000
+    },
+    {
+      "date": "2023-09-30",
+      "operating_cashflow": 7123000000,
+      "capex": 1600000000,
+      "fcf": 5523000000,
+      "dividends_paid": 3325000000
+    },
+    {
+      "date": "2024-03-31",
+      "operating_cashflow": 2390000000,
+      "capex": 547000000,
+      "fcf": 1843000000,
+      "dividends_paid": 1206000000
+    },
+    {
+      "date": "2024-06-30",
+      "operating_cashflow": 4079000000,
+      "capex": 1174000000,
+      "fcf": 2905000000,
+      "dividends_paid": 2405000000
+    },
+    {
+      "date": "2024-09-30",
+      "operating_cashflow": 6816000000,
+      "capex": 1968000000,
+      "fcf": 4848000000,
+      "dividends_paid": 3602000000
+    },
+    {
+      "date": "2025-03-31",
+      "operating_cashflow": 2428000000,
+      "capex": 551000000,
+      "fcf": 1877000000,
+      "dividends_paid": 1266000000
+    },
+    {
+      "date": "2025-06-30",
+      "operating_cashflow": 4426000000,
+      "capex": 1295000000,
+      "fcf": 3131000000,
+      "dividends_paid": 2530000000
+    },
+    {
+      "date": "2025-09-30",
+      "operating_cashflow": 7854000000,
+      "capex": 2306000000,
+      "fcf": 5548000000,
+      "dividends_paid": 3792000000
+    }
+  ],
+  "balance_annual": [
+    {
+      "date": "2006-12-31",
+      "retained_earnings": null,
+      "total_equity": 15458300000,
+      "total_debt": null,
+      "shares_outstanding": 1091348341
+    },
+    {
+      "date": "2007-12-31",
+      "retained_earnings": null,
+      "total_equity": 15279800000,
+      "total_debt": null,
+      "shares_outstanding": 1091348341
+    },
+    {
+      "date": "2008-12-31",
+      "retained_earnings": 28953900000,
+      "total_equity": 13382600000,
+      "total_debt": null,
+      "shares_outstanding": 1091348341
+    },
+    {
+      "date": "2009-12-31",
+      "retained_earnings": 31270800000,
+      "total_equity": 14033900000,
+      "total_debt": null,
+      "shares_outstanding": 1079186614
+    },
+    {
+      "date": "2010-12-31",
+      "retained_earnings": 33811700000,
+      "total_equity": 14634200000,
+      "total_debt": null,
+      "shares_outstanding": 1056506714
+    },
+    {
+      "date": "2011-12-31",
+      "retained_earnings": 36707500000,
+      "total_equity": 14390200000,
+      "total_debt": null,
+      "shares_outstanding": 1023218317
+    },
+    {
+      "date": "2012-12-31",
+      "retained_earnings": 39278000000,
+      "total_equity": 15293600000,
+      "total_debt": null,
+      "shares_outstanding": 1003976633
+    },
+    {
+      "date": "2013-12-31",
+      "retained_earnings": 41751200000,
+      "total_equity": 16009700000,
+      "total_debt": null,
+      "shares_outstanding": 995030164
+    },
+    {
+      "date": "2014-12-31",
+      "retained_earnings": 43294500000,
+      "total_equity": 12853400000,
+      "total_debt": null,
+      "shares_outstanding": 973203623
+    },
+    {
+      "date": "2015-12-31",
+      "retained_earnings": 44594500000,
+      "total_equity": 7087900000,
+      "total_debt": null,
+      "shares_outstanding": 918229823
+    },
+    {
+      "date": "2016-12-31",
+      "retained_earnings": 46222700000,
+      "total_equity": -2204300000,
+      "total_debt": null,
+      "shares_outstanding": 830443627
+    },
+    {
+      "date": "2017-12-31",
+      "retained_earnings": 48325800000,
+      "total_equity": -3268000000,
+      "total_debt": null,
+      "shares_outstanding": 797185588
+    },
+    {
+      "date": "2018-12-31",
+      "retained_earnings": 50487000000,
+      "total_equity": -6258400000,
+      "total_debt": null,
+      "shares_outstanding": 770910250
+    },
+    {
+      "date": "2019-12-31",
+      "retained_earnings": 52930500000,
+      "total_equity": -8210300000,
+      "total_debt": null,
+      "shares_outstanding": 753093326
+    },
+    {
+      "date": "2020-12-31",
+      "retained_earnings": 53908100000,
+      "total_equity": -7824900000,
+      "total_debt": null,
+      "shares_outstanding": 745110988
+    },
+    {
+      "date": "2021-12-31",
+      "retained_earnings": 57534700000,
+      "total_equity": -4601000000,
+      "total_debt": null,
+      "shares_outstanding": 747245427
+    },
+    {
+      "date": "2022-12-31",
+      "retained_earnings": 59543900000,
+      "total_equity": -6003000000,
+      "total_debt": null,
+      "shares_outstanding": 732423892
+    },
+    {
+      "date": "2023-12-31",
+      "retained_earnings": 63480000000,
+      "total_equity": -4707000000,
+      "total_debt": null,
+      "shares_outstanding": 725342030
+    },
+    {
+      "date": "2024-12-31",
+      "retained_earnings": 66834000000,
+      "total_equity": -3797000000,
+      "total_debt": null,
+      "shares_outstanding": 716619686
+    },
+    {
+      "date": "2025-12-31",
+      "retained_earnings": 70282000000,
+      "total_equity": -1791000000,
+      "total_debt": null,
+      "shares_outstanding": 712154350
+    }
+  ]
+}

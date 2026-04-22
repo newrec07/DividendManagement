@@ -1,0 +1,14 @@
+{
+  "ticker": "HD",
+  "updated_at": "2026-04-21",
+  "current_price": 350.99,
+  "current_yield": 0.0263,
+  "annual_dps": 9.23,
+  "current_pe": 10.04,
+  "ttm_eps": 34.9504,
+  "pe_min_5y": 7.5,
+  "pe_max_5y": 11.37,
+  "yield_min_5y": 0.0232,
+  "yield_max_5y": 0.0352,
+  "roic_10y_avg": null
+}

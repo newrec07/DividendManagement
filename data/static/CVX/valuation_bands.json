@@ -1,0 +1,14 @@
+{
+  "ticker": "CVX",
+  "updated_at": "2026-04-21",
+  "current_price": 183.25,
+  "current_yield": 0.0377,
+  "annual_dps": 6.91,
+  "current_pe": 30.0,
+  "ttm_eps": 6.1082,
+  "pe_min_5y": 14.0,
+  "pe_max_5y": 27.11,
+  "yield_min_5y": 0.0417,
+  "yield_max_5y": 0.0808,
+  "roic_10y_avg": null
+}

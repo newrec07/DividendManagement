@@ -1,0 +1,14 @@
+{
+  "ticker": "ADP",
+  "updated_at": "2026-04-21",
+  "current_price": 202.39,
+  "current_yield": 0.032,
+  "annual_dps": 6.48,
+  "current_pe": 10.01,
+  "ttm_eps": 20.2167,
+  "pe_min_5y": 9.06,
+  "pe_max_5y": 14.79,
+  "yield_min_5y": 0.0217,
+  "yield_max_5y": 0.0354,
+  "roic_10y_avg": null
+}

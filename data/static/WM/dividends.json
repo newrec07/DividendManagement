@@ -1,0 +1,870 @@
+{
+  "ticker": "WM",
+  "updated_at": "2026-04-21",
+  "data": [
+    {
+      "ex_date": "1998-09-28",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.01,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "1998-12-29",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.01,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "1999-09-28",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.01,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2000-09-27",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.01,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2001-09-25",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.01,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2002-09-26",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.01,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2003-09-26",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.01,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2004-02-26",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.188,
+      "is_special": true,
+      "label": ""
+    },
+    {
+      "ex_date": "2004-05-27",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.188,
+      "is_special": true,
+      "label": ""
+    },
+    {
+      "ex_date": "2004-08-30",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.188,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2004-11-29",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.188,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2005-02-25",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.2,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2005-05-27",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.2,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2005-08-30",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.2,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2005-11-29",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.2,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2006-03-02",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.22,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2006-06-01",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.22,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2006-08-31",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.22,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2006-11-30",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.22,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2007-03-08",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.24,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2007-05-31",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.24,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2007-08-30",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.24,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2007-11-29",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.24,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2008-03-06",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.27,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2008-05-29",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.27,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2008-08-28",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.27,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2008-11-26",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.27,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2009-03-05",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.29,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2009-05-28",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.29,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2009-09-03",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.29,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2009-11-30",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.29,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2010-03-01",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.315,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2010-05-27",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.315,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2010-09-02",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.315,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2010-11-29",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.315,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2011-03-09",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.34,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2011-05-31",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.34,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2011-09-01",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.34,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2011-11-28",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.34,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2012-03-07",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.355,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2012-06-06",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.355,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2012-09-05",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.355,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2012-11-26",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.355,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2013-03-07",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.365,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2013-06-05",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.365,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2013-09-04",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.365,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2013-12-02",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.365,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2014-03-06",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.375,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2014-06-04",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.375,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2014-09-03",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.375,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2014-12-03",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.375,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2015-03-05",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.385,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2015-06-03",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.385,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2015-09-10",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.385,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2015-12-02",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.385,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2016-03-03",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.41,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2016-06-01",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.41,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2016-09-07",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.41,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2016-11-30",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.41,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2017-03-08",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.425,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2017-06-07",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.425,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2017-09-07",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.425,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2017-11-30",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.425,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2018-03-08",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.465,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2018-06-07",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.465,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2018-09-06",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.465,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2018-11-29",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.465,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2019-03-07",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.513,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2019-06-06",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.513,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2019-09-05",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.513,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2019-12-05",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.513,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2020-03-05",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.545,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2020-06-04",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.545,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2020-09-03",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.545,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2020-12-03",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.545,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2021-03-11",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.575,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2021-06-03",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.575,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2021-09-02",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.575,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2021-12-02",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.575,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2022-03-16",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.65,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2022-06-02",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.65,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2022-09-08",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.65,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2022-12-01",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.65,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2023-03-09",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.7,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2023-06-01",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.7,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2023-09-07",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.7,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2023-11-30",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.7,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2024-03-14",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.75,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2024-06-07",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.75,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2024-09-13",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.75,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2024-12-06",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.75,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2025-03-14",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.825,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2025-06-06",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.825,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2025-09-12",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.825,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2025-12-05",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.825,
+      "is_special": false,
+      "label": ""
+    },
+    {
+      "ex_date": "2026-03-13",
+      "pay_date": "",
+      "record_date": "",
+      "declaration_date": "",
+      "dps": 0.945,
+      "is_special": false,
+      "label": ""
+    }
+  ]
+}

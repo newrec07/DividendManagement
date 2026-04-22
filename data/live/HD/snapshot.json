@@ -1,0 +1,16 @@
+{
+  "ticker": "HD",
+  "snapshot_date": "2026-04-21",
+  "current_price": 350.99,
+  "current_yield": 0.0263,
+  "annual_dps": 9.23,
+  "current_pe": 10.04,
+  "high_52w": 426.75,
+  "low_52w": 315.31,
+  "sma_13w": 353.6449,
+  "sma_40w": 368.7048,
+  "rsi_14w": 47.7292,
+  "bb_upper": 418.9759,
+  "bb_mid": 368.7048,
+  "bb_lower": 318.4337
+}

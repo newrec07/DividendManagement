@@ -1,0 +1,16 @@
+{
+  "ticker": "ADP",
+  "snapshot_date": "2026-04-21",
+  "current_price": 202.39,
+  "current_yield": 0.032,
+  "annual_dps": 6.48,
+  "current_pe": 10.01,
+  "high_52w": 329.93,
+  "low_52w": 188.16,
+  "sma_13w": 211.4196,
+  "sma_40w": 253.4526,
+  "rsi_14w": 34.2773,
+  "bb_upper": 321.3813,
+  "bb_mid": 253.4526,
+  "bb_lower": 185.5239
+}

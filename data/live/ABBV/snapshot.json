@@ -1,0 +1,16 @@
+{
+  "ticker": "ABBV",
+  "snapshot_date": "2026-04-21",
+  "current_price": 203.71,
+  "current_yield": 0.0331,
+  "annual_dps": 6.74,
+  "current_pe": 85.19,
+  "high_52w": 244.81,
+  "low_52w": 170.91,
+  "sma_13w": 216.0063,
+  "sma_40w": 215.694,
+  "rsi_14w": 41.7673,
+  "bb_upper": 238.1091,
+  "bb_mid": 215.694,
+  "bb_lower": 193.2789
+}

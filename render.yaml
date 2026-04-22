@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: dividend-api
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python startup.py
+    envVars:
+      - key: FMP_KEY
+        sync: false
+      - key: AV_KEY
+        sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_KEY
+        sync: false

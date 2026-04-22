@@ -1,0 +1,16 @@
+{
+  "ticker": "PLD",
+  "snapshot_date": "2026-04-21",
+  "current_price": 145.03,
+  "current_yield": 0.0283,
+  "annual_dps": 4.1,
+  "current_pe": 21.95,
+  "high_52w": 145.44,
+  "low_52w": 98.77,
+  "sma_13w": 135.9395,
+  "sma_40w": 124.0854,
+  "rsi_14w": 67.7704,
+  "bb_upper": 147.0265,
+  "bb_mid": 124.0854,
+  "bb_lower": 101.1442
+}

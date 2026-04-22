@@ -1,0 +1,43 @@
+{
+  "ticker": "CVX",
+  "updated_at": "2026-04-21",
+  "eps_forward": [
+    {
+      "date": "2026-04-21",
+      "eps_estimated": 1.6
+    },
+    {
+      "date": "2026-04-21",
+      "eps_estimated": 1.08
+    },
+    {
+      "date": "2026-04-21",
+      "eps_estimated": 6.58
+    },
+    {
+      "date": "2026-04-22",
+      "eps_estimated": 0.36
+    },
+    {
+      "date": "2026-04-22",
+      "eps_estimated": 0.55
+    },
+    {
+      "date": "2026-04-22",
+      "eps_estimated": -0.69043
+    },
+    {
+      "date": "2026-04-23",
+      "eps_estimated": -0.45
+    },
+    {
+      "date": "2026-04-23",
+      "eps_estimated": 0.06
+    }
+  ],
+  "eps_revision_4w": "NEUTRAL",
+  "eps_high": null,
+  "eps_low": null,
+  "dps_forward": null,
+  "payout_ratio_avg5y": null
+}

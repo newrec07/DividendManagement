@@ -1,0 +1,145 @@
+{
+  "ticker": "PLD",
+  "scored_at": "2026-04-21",
+  "score_201": 29.0,
+  "score_202": 20.0,
+  "score_203": 81.0,
+  "signal_201": "HOLD",
+  "signal_202": "WAIT",
+  "signal_203": "STRONG",
+  "c2_blocked": false,
+  "red_flag_count": 0,
+  "red_flags": [],
+  "details": {
+    "201": {
+      "f1_yield_band": {
+        "score": 0,
+        "detail": "OK"
+      },
+      "f2_pe_band": {
+        "score": 0,
+        "detail": "OK"
+      },
+      "f3_growth": {
+        "score": 10.0,
+        "detail": "BOTH_POS"
+      },
+      "f4_fcf_cagr": {
+        "score": 10.0,
+        "detail": "CAGR=19.4%"
+      },
+      "f5_payout": {
+        "score": 5.0,
+        "detail": "PR=62.0%"
+      },
+      "f6_mdd": {
+        "score": 0.0,
+        "detail": "MDD=-0.3%"
+      },
+      "f7_vix": {
+        "score": 4.0,
+        "detail": "VIX_NA"
+      },
+      "f8_sma": {
+        "score": 0.0,
+        "detail": "13W>=40W"
+      },
+      "f9_rsi": {
+        "score": 0.0,
+        "detail": "RSI=67.8"
+      },
+      "f10_bb": {
+        "score": 0.0,
+        "detail": "ABOVE_MID"
+      }
+    },
+    "202": {
+      "f1_yield_band": {
+        "score": 0,
+        "detail": "OK"
+      },
+      "f2_growth_payout": {
+        "score": 20.0,
+        "detail": "PR=62.0%,DGR=10.5%"
+      },
+      "f3_mdd": {
+        "score": 0.0,
+        "detail": "MDD=-0.3%"
+      },
+      "f5_sma": {
+        "score": 0.0,
+        "detail": "13W>=40W"
+      },
+      "f6_rsi": {
+        "score": 0.0,
+        "detail": "RSI=67.8"
+      },
+      "f7_bb": {
+        "score": 0.0,
+        "detail": "ABOVE_MID"
+      }
+    },
+    "203": {
+      "l1_fcf_gate": {
+        "score": null,
+        "detail": "FCF/Div=1.32"
+      },
+      "l1_f2_cash_payout": {
+        "score": 5.0,
+        "detail": "CPR=75.7%"
+      },
+      "l1_f3_eps_cagr": {
+        "score": 10.0,
+        "detail": "EPS_CAGR=13.1%(10y)"
+      },
+      "l1_f4_interest_cov": {
+        "score": 10.0,
+        "detail": "NO_INTEREST"
+      },
+      "l1_f5_retained_earn": {
+        "score": 5.0,
+        "detail": "RE_MIX=53%"
+      },
+      "l1_f6_de_ratio": {
+        "score": 3.0,
+        "detail": "DATA_NA"
+      },
+      "l1_f7_shares_trend": {
+        "score": 0.0,
+        "detail": "shares=451.6%"
+      },
+      "l1_f8_roic_wacc": {
+        "score": 5.0,
+        "detail": "ROIC=12.5%>WACC=7.0%"
+      },
+      "l1_f9_dgr_fcf_sync": {
+        "score": 10.0,
+        "detail": "DGR=11.7%<=FCF=16.2%"
+      },
+      "l2_f1_eps_revision": {
+        "score": 5.0,
+        "detail": "EPS_NEUTRAL"
+      },
+      "l2_f2_insider": {
+        "score": 3.0,
+        "detail": "INSIDER_NA"
+      },
+      "l2_f3_news_tone": {
+        "score": 10.0,
+        "detail": "POSITIVE"
+      },
+      "l2_f4_guidance": {
+        "score": 5.0,
+        "detail": "RAISED"
+      },
+      "l2_f5_credit": {
+        "score": 5.0,
+        "detail": "STABLE"
+      },
+      "l2_f6_regulatory": {
+        "score": 5.0,
+        "detail": "CLEAN"
+      }
+    }
+  }
+}

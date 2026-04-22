@@ -1,0 +1,16 @@
+{
+  "ticker": "NEE",
+  "snapshot_date": "2026-04-21",
+  "current_price": 92.01,
+  "current_yield": 0.0253,
+  "annual_dps": 2.324,
+  "current_pe": 13.0,
+  "high_52w": 96.21,
+  "low_52w": 63.88,
+  "sma_13w": 91.583,
+  "sma_40w": 82.446,
+  "rsi_14w": 60.4838,
+  "bb_upper": 98.0393,
+  "bb_mid": 82.446,
+  "bb_lower": 66.8527
+}

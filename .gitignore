@@ -5,5 +5,4 @@ __pycache__/
 venv/
 node_modules/
 /frontend/dist/
-/data/live/
 /logs/

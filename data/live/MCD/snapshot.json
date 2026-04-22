@@ -1,0 +1,16 @@
+{
+  "ticker": "MCD",
+  "snapshot_date": "2026-04-21",
+  "current_price": 306.94,
+  "current_yield": 0.0237,
+  "annual_dps": 7.26,
+  "current_pe": 11.76,
+  "high_52w": 341.75,
+  "low_52w": 283.47,
+  "sma_13w": 317.793,
+  "sma_40w": 308.2787,
+  "rsi_14w": 46.7317,
+  "bb_upper": 328.6676,
+  "bb_mid": 308.2787,
+  "bb_lower": 287.8898
+}

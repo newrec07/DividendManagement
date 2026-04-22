@@ -1,0 +1,16 @@
+{
+  "ticker": "WSO",
+  "snapshot_date": "2026-04-21",
+  "current_price": 438.41,
+  "current_yield": 0.0281,
+  "annual_dps": 12.3,
+  "current_pe": null,
+  "high_52w": 509.71,
+  "low_52w": 323.05,
+  "sma_13w": 395.9557,
+  "sma_40w": 381.144,
+  "rsi_14w": 62.246,
+  "bb_upper": 446.4174,
+  "bb_mid": 381.144,
+  "bb_lower": 315.8707
+}

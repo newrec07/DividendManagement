@@ -1,0 +1,16 @@
+{
+  "ticker": "WM",
+  "snapshot_date": "2026-04-21",
+  "current_price": 224.18,
+  "current_yield": 0.0153,
+  "annual_dps": 3.42,
+  "current_pe": 14.77,
+  "high_52w": 248.13,
+  "low_52w": 194.11,
+  "sma_13w": 231.0025,
+  "sma_40w": 221.8945,
+  "rsi_14w": 48.7635,
+  "bb_upper": 241.1945,
+  "bb_mid": 221.8945,
+  "bb_lower": 202.5946
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "UNH",
+  "snapshot_date": "2026-04-21",
+  "current_price": 323.48,
+  "current_yield": 0.0273,
+  "annual_dps": 8.84,
+  "current_pe": 24.3,
+  "high_52w": 438.85,
+  "low_52w": 234.6,
+  "sma_13w": 289.2001,
+  "sma_40w": 311.1222,
+  "rsi_14w": 54.0225,
+  "bb_upper": 372.8098,
+  "bb_mid": 311.1222,
+  "bb_lower": 249.4346
+}

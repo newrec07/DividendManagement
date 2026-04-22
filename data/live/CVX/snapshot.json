@@ -1,0 +1,16 @@
+{
+  "ticker": "CVX",
+  "snapshot_date": "2026-04-21",
+  "current_price": 183.25,
+  "current_yield": 0.0377,
+  "annual_dps": 6.91,
+  "current_pe": 30.0,
+  "high_52w": 214.71,
+  "low_52w": 133.77,
+  "sma_13w": 189.3342,
+  "sma_40w": 164.5035,
+  "rsi_14w": 56.0201,
+  "bb_upper": 201.6011,
+  "bb_mid": 164.5035,
+  "bb_lower": 127.4059
+}

@@ -1,0 +1,1379 @@
+{
+  "ticker": "HD",
+  "computed_at": "2026-04-21",
+  "buy_price": 350.99,
+  "current_yield": 0.0263,
+  "weighted_dgr": 0.0747,
+  "dgr_scenarios": {
+    "base": 0.0747,
+    "bull": 0.0947,
+    "bear": 0.0447,
+    "freeze": 0.0
+  },
+  "freeze": false,
+  "active_scenario": "base",
+  "divergence": {
+    "alert": false,
+    "consensus_dir": "NEUTRAL",
+    "news_dir": "POSITIVE",
+    "band_expand": 0.0,
+    "bear_forced": false
+  },
+  "scenarios": {
+    "base": [
+      {
+        "quarter": "2026Q3",
+        "dps": 2.3735,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2026Q4",
+        "dps": 2.4178,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2027Q1",
+        "dps": 2.463,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2027Q2",
+        "dps": 2.509,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2027Q3",
+        "dps": 2.5558,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2027Q4",
+        "dps": 2.6035,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q1",
+        "dps": 2.6522,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q2",
+        "dps": 2.7017,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q3",
+        "dps": 2.7521,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q4",
+        "dps": 2.8035,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2029Q1",
+        "dps": 2.8559,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2029Q2",
+        "dps": 2.9092,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2029Q3",
+        "dps": 2.9635,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2029Q4",
+        "dps": 3.0188,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q1",
+        "dps": 3.0752,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q2",
+        "dps": 3.1326,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q3",
+        "dps": 3.1911,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q4",
+        "dps": 3.2507,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q1",
+        "dps": 3.3114,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q2",
+        "dps": 3.3733,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q3",
+        "dps": 3.4362,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q4",
+        "dps": 3.5004,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q1",
+        "dps": 3.5658,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q2",
+        "dps": 3.6324,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q3",
+        "dps": 3.7002,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q4",
+        "dps": 3.7693,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q1",
+        "dps": 3.8397,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q2",
+        "dps": 3.9113,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q3",
+        "dps": 3.9844,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q4",
+        "dps": 4.0588,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q1",
+        "dps": 4.1346,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q2",
+        "dps": 4.2118,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q3",
+        "dps": 4.2904,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q4",
+        "dps": 4.3705,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q1",
+        "dps": 4.4521,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q2",
+        "dps": 4.5353,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q3",
+        "dps": 4.62,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q4",
+        "dps": 4.7062,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2036Q1",
+        "dps": 4.7941,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2036Q2",
+        "dps": 4.8836,
+        "zone": "long",
+        "source": "dgr"
+      }
+    ],
+    "bull": [
+      {
+        "quarter": "2026Q3",
+        "dps": 2.3852,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2026Q4",
+        "dps": 2.4416,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2027Q1",
+        "dps": 2.4994,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2027Q2",
+        "dps": 2.5586,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2027Q3",
+        "dps": 2.6192,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2027Q4",
+        "dps": 2.6812,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q1",
+        "dps": 2.7446,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q2",
+        "dps": 2.8096,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q3",
+        "dps": 2.8761,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q4",
+        "dps": 2.9442,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2029Q1",
+        "dps": 3.0139,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2029Q2",
+        "dps": 3.0852,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2029Q3",
+        "dps": 3.1583,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2029Q4",
+        "dps": 3.233,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q1",
+        "dps": 3.3096,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q2",
+        "dps": 3.3879,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q3",
+        "dps": 3.4681,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q4",
+        "dps": 3.5502,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q1",
+        "dps": 3.6343,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q2",
+        "dps": 3.7203,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q3",
+        "dps": 3.8084,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q4",
+        "dps": 3.8985,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q1",
+        "dps": 3.9908,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q2",
+        "dps": 4.0853,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q3",
+        "dps": 4.182,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q4",
+        "dps": 4.281,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q1",
+        "dps": 4.3823,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q2",
+        "dps": 4.4861,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q3",
+        "dps": 4.5923,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q4",
+        "dps": 4.701,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q1",
+        "dps": 4.8123,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q2",
+        "dps": 4.9262,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q3",
+        "dps": 5.0428,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q4",
+        "dps": 5.1622,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q1",
+        "dps": 5.2844,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q2",
+        "dps": 5.4095,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q3",
+        "dps": 5.5375,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q4",
+        "dps": 5.6686,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2036Q1",
+        "dps": 5.8028,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2036Q2",
+        "dps": 5.9402,
+        "zone": "long",
+        "source": "dgr"
+      }
+    ],
+    "bear": [
+      {
+        "quarter": "2026Q3",
+        "dps": 2.356,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2026Q4",
+        "dps": 2.3824,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2027Q1",
+        "dps": 2.409,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2027Q2",
+        "dps": 2.4359,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2027Q3",
+        "dps": 2.4631,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2027Q4",
+        "dps": 2.4906,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q1",
+        "dps": 2.5184,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q2",
+        "dps": 2.5466,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q3",
+        "dps": 2.575,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q4",
+        "dps": 2.6038,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2029Q1",
+        "dps": 2.6329,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2029Q2",
+        "dps": 2.6623,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2029Q3",
+        "dps": 2.6921,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2029Q4",
+        "dps": 2.7221,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q1",
+        "dps": 2.7526,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q2",
+        "dps": 2.7833,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q3",
+        "dps": 2.8144,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q4",
+        "dps": 2.8458,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q1",
+        "dps": 2.8776,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q2",
+        "dps": 2.9098,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q3",
+        "dps": 2.9423,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q4",
+        "dps": 2.9752,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q1",
+        "dps": 3.0084,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q2",
+        "dps": 3.042,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q3",
+        "dps": 3.076,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q4",
+        "dps": 3.1104,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q1",
+        "dps": 3.1451,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q2",
+        "dps": 3.1803,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q3",
+        "dps": 3.2158,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q4",
+        "dps": 3.2517,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q1",
+        "dps": 3.2881,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q2",
+        "dps": 3.3248,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q3",
+        "dps": 3.362,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q4",
+        "dps": 3.3995,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q1",
+        "dps": 3.4375,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q2",
+        "dps": 3.4759,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q3",
+        "dps": 3.5147,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q4",
+        "dps": 3.554,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2036Q1",
+        "dps": 3.5937,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2036Q2",
+        "dps": 3.6339,
+        "zone": "long",
+        "source": "dgr"
+      }
+    ],
+    "freeze": [
+      {
+        "quarter": "2026Q3",
+        "dps": 2.33,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2026Q4",
+        "dps": 2.33,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2027Q1",
+        "dps": 2.33,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2027Q2",
+        "dps": 2.33,
+        "zone": "short",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2027Q3",
+        "dps": 2.33,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2027Q4",
+        "dps": 2.33,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q1",
+        "dps": 2.33,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q2",
+        "dps": 2.33,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q3",
+        "dps": 2.33,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2028Q4",
+        "dps": 2.33,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2029Q1",
+        "dps": 2.33,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2029Q2",
+        "dps": 2.33,
+        "zone": "mid",
+        "source": "blended"
+      },
+      {
+        "quarter": "2029Q3",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2029Q4",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q1",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q2",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q3",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2030Q4",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q1",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q2",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q3",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2031Q4",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q1",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q2",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q3",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2032Q4",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q1",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q2",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q3",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2033Q4",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q1",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q2",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q3",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2034Q4",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q1",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q2",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q3",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2035Q4",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2036Q1",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      },
+      {
+        "quarter": "2036Q2",
+        "dps": 2.33,
+        "zone": "long",
+        "source": "dgr"
+      }
+    ]
+  },
+  "cumulative": {
+    "base": [
+      2.3735,
+      4.7913,
+      7.2543,
+      9.7633,
+      12.3191,
+      14.9226,
+      17.5748,
+      20.2765,
+      23.0286,
+      25.8321,
+      28.688,
+      31.5972,
+      34.5607,
+      37.5795,
+      40.6547,
+      43.7873,
+      46.9784,
+      50.2291,
+      53.5405,
+      56.9138,
+      60.35,
+      63.8504,
+      67.4162,
+      71.0486,
+      74.7488,
+      78.5181,
+      82.3578,
+      86.2691,
+      90.2535,
+      94.3123,
+      98.4469,
+      102.6587,
+      106.9491,
+      111.3196,
+      115.7717,
+      120.307,
+      124.927,
+      129.6332,
+      134.4273,
+      139.3109
+    ],
+    "bull": [
+      2.3852,
+      4.8268,
+      7.3262,
+      9.8848,
+      12.504,
+      15.1852,
+      17.9298,
+      20.7394,
+      23.6155,
+      26.5597,
+      29.5736,
+      32.6588,
+      35.8171,
+      39.0501,
+      42.3597,
+      45.7476,
+      49.2157,
+      52.7659,
+      56.4002,
+      60.1205,
+      63.9289,
+      67.8274,
+      71.8182,
+      75.9035,
+      80.0855,
+      84.3665,
+      88.7488,
+      93.2349,
+      97.8272,
+      102.5282,
+      107.3405,
+      112.2667,
+      117.3095,
+      122.4717,
+      127.7561,
+      133.1656,
+      138.7031,
+      144.3717,
+      150.1745,
+      156.1147
+    ],
+    "bear": [
+      2.356,
+      4.7384,
+      7.1474,
+      9.5833,
+      12.0464,
+      14.537,
+      17.0554,
+      19.602,
+      22.177,
+      24.7808,
+      27.4137,
+      30.076,
+      32.7681,
+      35.4902,
+      38.2428,
+      41.0261,
+      43.8405,
+      46.6863,
+      49.5639,
+      52.4737,
+      55.416,
+      58.3912,
+      61.3996,
+      64.4416,
+      67.5176,
+      70.628,
+      73.7731,
+      76.9534,
+      80.1692,
+      83.4209,
+      86.709,
+      90.0338,
+      93.3958,
+      96.7953,
+      100.2328,
+      103.7087,
+      107.2234,
+      110.7774,
+      114.3711,
+      118.005
+    ],
+    "freeze": [
+      2.33,
+      4.66,
+      6.99,
+      9.32,
+      11.65,
+      13.98,
+      16.31,
+      18.64,
+      20.97,
+      23.3,
+      25.63,
+      27.96,
+      30.29,
+      32.62,
+      34.95,
+      37.28,
+      39.61,
+      41.94,
+      44.27,
+      46.6,
+      48.93,
+      51.26,
+      53.59,
+      55.92,
+      58.25,
+      60.58,
+      62.91,
+      65.24,
+      67.57,
+      69.9,
+      72.23,
+      74.56,
+      76.89,
+      79.22,
+      81.55,
+      83.88,
+      86.21,
+      88.54,
+      90.87,
+      93.2
+    ]
+  },
+  "yoc_by_year": {
+    "base": [
+      {
+        "year": 1,
+        "annual_dps": 9.7633,
+        "yoc": 0.0278
+      },
+      {
+        "year": 2,
+        "annual_dps": 10.5132,
+        "yoc": 0.03
+      },
+      {
+        "year": 3,
+        "annual_dps": 11.3207,
+        "yoc": 0.0323
+      },
+      {
+        "year": 4,
+        "annual_dps": 12.1901,
+        "yoc": 0.0347
+      },
+      {
+        "year": 5,
+        "annual_dps": 13.1265,
+        "yoc": 0.0374
+      },
+      {
+        "year": 6,
+        "annual_dps": 14.1348,
+        "yoc": 0.0403
+      },
+      {
+        "year": 7,
+        "annual_dps": 15.2205,
+        "yoc": 0.0434
+      },
+      {
+        "year": 8,
+        "annual_dps": 16.3896,
+        "yoc": 0.0467
+      },
+      {
+        "year": 9,
+        "annual_dps": 17.6483,
+        "yoc": 0.0503
+      },
+      {
+        "year": 10,
+        "annual_dps": 19.0039,
+        "yoc": 0.0541
+      }
+    ],
+    "bull": [
+      {
+        "year": 1,
+        "annual_dps": 9.8848,
+        "yoc": 0.0282
+      },
+      {
+        "year": 2,
+        "annual_dps": 10.8546,
+        "yoc": 0.0309
+      },
+      {
+        "year": 3,
+        "annual_dps": 11.9194,
+        "yoc": 0.034
+      },
+      {
+        "year": 4,
+        "annual_dps": 13.0888,
+        "yoc": 0.0373
+      },
+      {
+        "year": 5,
+        "annual_dps": 14.3729,
+        "yoc": 0.0409
+      },
+      {
+        "year": 6,
+        "annual_dps": 15.783,
+        "yoc": 0.045
+      },
+      {
+        "year": 7,
+        "annual_dps": 17.3314,
+        "yoc": 0.0494
+      },
+      {
+        "year": 8,
+        "annual_dps": 19.0318,
+        "yoc": 0.0542
+      },
+      {
+        "year": 9,
+        "annual_dps": 20.8989,
+        "yoc": 0.0595
+      },
+      {
+        "year": 10,
+        "annual_dps": 22.9491,
+        "yoc": 0.0654
+      }
+    ],
+    "bear": [
+      {
+        "year": 1,
+        "annual_dps": 9.5833,
+        "yoc": 0.0273
+      },
+      {
+        "year": 2,
+        "annual_dps": 10.0187,
+        "yoc": 0.0285
+      },
+      {
+        "year": 3,
+        "annual_dps": 10.474,
+        "yoc": 0.0298
+      },
+      {
+        "year": 4,
+        "annual_dps": 10.9501,
+        "yoc": 0.0312
+      },
+      {
+        "year": 5,
+        "annual_dps": 11.4476,
+        "yoc": 0.0326
+      },
+      {
+        "year": 6,
+        "annual_dps": 11.9679,
+        "yoc": 0.0341
+      },
+      {
+        "year": 7,
+        "annual_dps": 12.5118,
+        "yoc": 0.0356
+      },
+      {
+        "year": 8,
+        "annual_dps": 13.0804,
+        "yoc": 0.0373
+      },
+      {
+        "year": 9,
+        "annual_dps": 13.6749,
+        "yoc": 0.039
+      },
+      {
+        "year": 10,
+        "annual_dps": 14.2963,
+        "yoc": 0.0407
+      }
+    ],
+    "freeze": [
+      {
+        "year": 1,
+        "annual_dps": 9.32,
+        "yoc": 0.0266
+      },
+      {
+        "year": 2,
+        "annual_dps": 9.32,
+        "yoc": 0.0266
+      },
+      {
+        "year": 3,
+        "annual_dps": 9.32,
+        "yoc": 0.0266
+      },
+      {
+        "year": 4,
+        "annual_dps": 9.32,
+        "yoc": 0.0266
+      },
+      {
+        "year": 5,
+        "annual_dps": 9.32,
+        "yoc": 0.0266
+      },
+      {
+        "year": 6,
+        "annual_dps": 9.32,
+        "yoc": 0.0266
+      },
+      {
+        "year": 7,
+        "annual_dps": 9.32,
+        "yoc": 0.0266
+      },
+      {
+        "year": 8,
+        "annual_dps": 9.32,
+        "yoc": 0.0266
+      },
+      {
+        "year": 9,
+        "annual_dps": 9.32,
+        "yoc": 0.0266
+      },
+      {
+        "year": 10,
+        "annual_dps": 9.32,
+        "yoc": 0.0266
+      }
+    ]
+  },
+  "payback_quarter": {
+    "base": null,
+    "bull": null,
+    "bear": null,
+    "freeze": null
+  },
+  "target_price_5pct": 195.27
+}
